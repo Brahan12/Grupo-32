@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2? family= Berkshire+Swash & family= Titan+One & display=swap');
+
+/* Css Nav */
+.navbar{
+    background-color: #fff !important;
+}
+
+.container-fluid{
+    font-family: 'Titan One', cursive;
+}
+
+.styleAncla{
+    font-size: 1.3em !important;
+}
+
+.styleAncla:hover{
+    color: #ffc107 !important;
+}
+
+.dropdown-item:hover{
+    background-color: #ffc1075b !important;
+}
+
+.dropdown-item:active{
+    background-color: #ffc107 !important;
+    color: #fff !important;
+}
+
+.bg-warning:hover{
+    background-color: #fff !important;
+    border: 1px solid #ffc107 !important;
+}
+
+/* Css main corrousel */
+
+.carousel-indicators-boton{
+    color: #000 !important;
+    background-color: #ffc107 !important;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
